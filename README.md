@@ -1,2 +1,3 @@
-# Adidas-Sales-Insights-Dashboard
-This project involves creating a Power BI dashboard to analyze and visualize Adidas' sales data. The dashboard provides key insights into sales performance, customer trends, product category contributions, and regional sales distribution.
+# Adidas Sales Insights Dashboard
+![image](https://github.com/user-attachments/assets/200c9f8b-84f9-4021-ad28-0ee17d7c9516)
+
